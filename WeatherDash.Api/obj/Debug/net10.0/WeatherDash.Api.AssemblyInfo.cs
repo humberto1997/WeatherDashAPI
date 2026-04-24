@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WeatherDash.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ebd9bef929a03b16d2548fb7b07db83ecf5e2fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("WeatherDash.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WeatherDash.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
